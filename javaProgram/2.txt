@@ -1,0 +1,28 @@
+:abc中文字符串:abc中文字符串/r;/rabc中文字;abc中文字
+5
+abe中文字hello java0
+hello java1
+hello java2
+hello java3
+hello java4
+hello java5
+hello java6
+hello java7
+hello java8
+hello java9
+hello java10
+hello java11
+hello java12
+hello java13
+hello java14
+hello java15
+hello java16
+hello java17
+hello java18
+hello java19
+这是通过BufferedWriter添加的字符串第0次增加的字符串
+第1次增加的字符串
+第2次增加的字符串
+第3次增加的字符串
+第4次增加的字符串
+这是通过BufferedWriter添加的字符串嘻嘻ABCDEGHI这是中文
